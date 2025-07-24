@@ -1,15 +1,22 @@
+"tokens": [
+  {
+    "chainId": 101,
+    "address": "Es9vMFraZcer8nuFfi44ZYD4KoNKY11hCEc8BernbYvB",
+    "symbol": "USDT",
+    ...
+  },
+  ...
 {
-  "chainId": 101,
-  "address": "4daGvqy3fNaAwh8ZUn2WsiMGWfXgGT45w286NGGPX2Jc",
-  "symbol": "SYNX",
-  "name": "Syntari AI Network",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/synx1983/syntari-network/main/SYNX_logo_updated.png",
-  "tags": ["ai", "web3", "layer1"],
-  "extensions": {
-    "website": "https://x.com/SyntariNetwork",
-    "description": "SYNX is the native token of Syntari AI Network — a futuristic Layer 1 blockchain empowering AI and creators through Web3.",
-    "twitter": "https://x.com/SyntariNetwork",
-    "email": "syntariainetwork@gmail.com"
-  }
-}
+    "chainId": 101,
+    "address": "4daGvqy3fNaAwh8ZUn2WsiMGWfXgGT45w286NGGPX2Jc",
+    "symbol": "SYNX"
+    "name": "Syntari AI Network",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/synx1983/syntari-network/main/assets/mainnet/4daGvqy3fNaAwh8ZUn2WsiMGWfXgGT45w286NGGPX2Jc/logo.png",
+    "tags": ["AI", "Web3", "Creator", "Utility"],
+    "extensions": {
+      "website": "https://x.com/SyntariNetwork",
+      "twitter": "https://x.com/SyntariNetwork",
+      "email": "syntariainetwork@gmail.com"
+    }
+}]
