@@ -1,1 +1,18 @@
-
+{
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "4daGvqy3fNaAwh82Un2WsliMGwfXfgGT45w286NQGfPX2Jc",
+      "symbol": "SYNX",
+      "name": "Syntari AI Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/synx1983/syntari-network/main/assets/mainnet/4daGvqy3fNaAwh82Un2WsliMGwfXfgGT45w286NQGfPX2Jc/logo.png",
+      "tags": ["AI", "Web3", "Creator", "Utility"],
+      "extensions": {
+        "website": "https://x.com/SyntariNetwork",
+        "twitter": "https://x.com/SyntariNetwork",
+        "email": "syntariainetwork@gmail.com"
+      }
+    }
+  ]
+}
