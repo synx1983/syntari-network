@@ -1,0 +1,43 @@
+{
+  "name": "Solana Token List",
+  "tags": {
+    "AI": {
+      "name": "AI",
+      "description": "Artificial Intelligence based tokens"
+    },
+    "Web3": {
+      "name": "Web3",
+      "description": "Web3 and decentralized internet"
+    },
+    "Creator": {
+      "name": "Creator",
+      "description": "Creator economy tokens"
+    },
+    "Utility": {
+      "name": "Utility",
+      "description": "Utility tokens"
+    }
+  },
+  "timestamp": "2025-07-24T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "4daGvqy3fNaAwh8ZUn2WsiMGWfXgGT45w286NGGPX2Jc",
+      "symbol": "SYNX",
+      "name": "Syntari AI Network",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/synx1983/token-list/main/assets/mainnet/4daGvqy3fNaAwh8ZUn2WsiMGWfXgGT45w286NGGPX2Jc/logo.png",
+      "tags": [
+        "AI",
+        "Web3",
+        "Creator",
+        "Utility"
+      ],
+      "extensions": {
+        "website": "https://x.com/SyntariNetwork",
+        "twitter": "https://x.com/SyntariNetwork",
+        "email": "syntariainetwork@gmail.com"
+      }
+    }
+  ]
+}
